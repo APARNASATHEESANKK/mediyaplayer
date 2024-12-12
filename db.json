@@ -1,0 +1,139 @@
+{
+  "allVideos": [
+    {
+      "captions": "avesham",
+      "imageUrl": "https://www.deccanchronicle.com/h-upload/2024/11/01/1858403-lucky-bhaskar.webp",
+      "youtubeUrl": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "id": 2
+    },
+    {
+      "captions": "avesham",
+      "imageUrl": "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2024/1/24/aavesham-fahadh.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/QLNhsatfwMI",
+      "id": 6
+    },
+    {
+      "captions": "Lucky Bhaskar",
+      "imageUrl": "https://www.deccanchronicle.com/h-upload/2024/11/01/1858403-lucky-bhaskar.webp",
+      "youtubeUrl": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "id": 5
+    },
+    {
+      "captions": "Lucky Bhaskar",
+      "imageUrl": "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2024/1/24/aavesham-fahadh.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/HHTYK_Bm94c",
+      "id": 3
+    },
+    {
+      "captions": "ARM",
+      "imageUrl": "https://static.tnn.in/thumb/msid-100364373,updatedat-1684521315865,width-1280,height-720,resizemode-75/100364373.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/HHTYK_Bm94c",
+      "id": 7
+    },
+    {
+      "captions": "vazha",
+      "imageUrl": "https://malayalam.cdn.zeenews.com/malayalam/sites/default/files/styles/zm_700x400/public/2024/06/01/271188-vaazha.jpg?itok=mjB3Ilr7",
+      "youtubeUrl": "https://www.youtube.com/embed/QLNhsatfwMI",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "trailer",
+      "allVideos": []
+    }
+  ],
+  "watchHistory": [
+    {
+      "captions": "vazha",
+      "youtubeUrl": "https://www.youtube.com/embed/HHTYK_Bm94c",
+      "formatedDate": "12/4/2024, 2:54:24 PM",
+      "id": 4
+    },
+    {
+      "captions": "vazha",
+      "youtubeUrl": "https://www.youtube.com/embed/HHTYK_Bm94c",
+      "formatedDate": "12/4/2024, 2:55:29 PM",
+      "id": 5
+    },
+    {
+      "captions": "vazha",
+      "youtubeUrl": "https://www.youtube.com/embed/HHTYK_Bm94c",
+      "formatedDate": "12/4/2024, 2:58:09 PM",
+      "id": 6
+    },
+    {
+      "captions": "ARM",
+      "youtubeUrl": "https://www.youtube.com/embed/M-yqIcuVNe8",
+      "formatedDate": "12/4/2024, 3:18:53 PM",
+      "id": 7
+    },
+    {
+      "captions": "vazha",
+      "youtubeUrl": "https://www.youtube.com/embed/HHTYK_Bm94c",
+      "formatedDate": "12/9/2024, 8:28:19 PM",
+      "id": 8
+    },
+    {
+      "captions": "Lucky Bhaskar",
+      "youtubeUrl": "https://www.youtube.com/embed/EvFVXlalmXg",
+      "formatedDate": "12/10/2024, 3:01:26 PM",
+      "id": 9
+    },
+    {
+      "captions": "Lucky Bhaskar",
+      "youtubeUrl": "https://www.youtube.com/embed/EvFVXlalmXg",
+      "formatedDate": "12/10/2024, 3:01:30 PM",
+      "id": 10
+    },
+    {
+      "captions": "Lucky Bhaskar",
+      "youtubeUrl": "https://www.youtube.com/embed/EvFVXlalmXg",
+      "formatedDate": "12/10/2024, 3:01:37 PM",
+      "id": 11
+    },
+    {
+      "captions": "Lucky Bhaskar",
+      "youtubeUrl": "https://www.youtube.com/embed/EvFVXlalmXg",
+      "formatedDate": "12/10/2024, 3:01:49 PM",
+      "id": 12
+    },
+    {
+      "captions": "Lucky Bhaskar",
+      "youtubeUrl": "https://www.youtube.com/embed/EvFVXlalmXg",
+      "formatedDate": "12/10/2024, 3:02:15 PM",
+      "id": 13
+    },
+    {
+      "captions": "avesham",
+      "youtubeUrl": "https://www.youtube.com/embed/QLNhsatfwMI",
+      "formatedDate": "12/10/2024, 3:19:59 PM",
+      "id": 14
+    },
+    {
+      "captions": "Lucky Bhaskar",
+      "youtubeUrl": "https://www.youtube.com/embed/EvFVXlalmXg",
+      "formatedDate": "12/10/2024, 3:25:09 PM",
+      "id": 15
+    },
+    {
+      "captions": "vazha",
+      "youtubeUrl": "https://www.youtube.com/embed/HHTYK_Bm94c",
+      "formatedDate": "12/10/2024, 10:54:24 PM",
+      "id": 16
+    },
+    {
+      "captions": "Lucky Bhaskar",
+      "youtubeUrl": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "formatedDate": "12/12/2024, 1:41:35 PM",
+      "id": 17
+    },
+    {
+      "captions": "Lucky Bhaskar",
+      "youtubeUrl": "https://www.youtube.com/embed/HHTYK_Bm94c",
+      "formatedDate": "12/12/2024, 1:44:31 PM",
+      "id": 18
+    }
+  ]
+}
